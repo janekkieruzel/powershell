@@ -1,0 +1,1 @@
+Connect-MgGraph -Scopes "Policy.ReadWrite.AuthenticationMethod, Directory.ReadWrite.All"
